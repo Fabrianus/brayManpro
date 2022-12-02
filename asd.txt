@@ -1,4 +1,5 @@
 hrlloo okoskdfm
+<<<<<<< HEAD
 asdfoaisjdpiua
 difahf
 aduoqwbefpoasdfaw
@@ -15,3 +16,16 @@ hwahfi
 awiefhwafhasdofahowuehf
 afniwehfpasdhvpawei
 
+=======
+
+fasdf
+
+asdf
+asdfoah
+asdkfgawer\gouqwe 
+qweifqwpih q
+wefqwkef q
+qwjef qw'efqwjeq
+wq wenpiq3wapsdfqw
+n
+>>>>>>> 0532fae5f4b8186a8720236c5f7fbb6bcde15238
